@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/2. lottery_ticket_generator.py" afterDir="false" />
+    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу №2&#10;&#10;EN&#10;Completed task №2">
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/2.1 lottery_ticket_generator_(dop).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +191,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674570185349</updated>
     </task>
+    <task id="LOCAL-00001" summary="RU&#10;Выполнил задачу №2&#10;&#10;EN&#10;Completed task №2">
+      <created>1675789462456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675789462457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,5 +214,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="RU&#10;Выполнил задачу №2&#10;&#10;EN&#10;Completed task №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу №2&#10;&#10;EN&#10;Completed task №2" />
   </component>
 </project>
