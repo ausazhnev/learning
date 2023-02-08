@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу №4&#10;&#10;EN&#10;Completed task №4">
+    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Добавлен генератор файла для выполнения задачи №5&#10;Файл сгенерирован&#10;&#10;EN&#10;Added a file generator to perform task #5&#10;File generated">
       <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/5. checking_for_an_account_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/dop/5. generation_charge_accounrs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.5. generation_charge_accounrs">
+  <component name="RunManager" selected="Python.5. checking_for_an_account_number">
     <configuration name="2. lottery_ticket_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="prob" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +109,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5. checking_for_an_account_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/5. checking_for_an_account_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="5. generation_charge_accounrs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,34 +172,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="prob" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Glava_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Glava_7/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5. checking_for_an_account_number" />
         <item itemvalue="Python.5. generation_charge_accounrs" />
         <item itemvalue="Python.4. number_analysis_program" />
         <item itemvalue="Python.3. rainfall_statistics" />
         <item itemvalue="Python.2. lottery_ticket_generator" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675809525149</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="RU&#10;Добавлен генератор файла для выполнения задачи №5&#10;Файл сгенерирован&#10;&#10;EN&#10;Added a file generator to perform task #5&#10;File generated">
+      <created>1675849942673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675849942673</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +246,7 @@
     <MESSAGE value="RU&#10;Выполнил задачу №1&#10;&#10;EN&#10;Completed task №1" />
     <MESSAGE value="RU&#10;Выполнил задачу №3&#10;&#10;EN&#10;Completed task №3" />
     <MESSAGE value="RU&#10;Выполнил задачу №4&#10;&#10;EN&#10;Completed task №4" />
-    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу №4&#10;&#10;EN&#10;Completed task №4" />
+    <MESSAGE value="RU&#10;Добавлен генератор файла для выполнения задачи №5&#10;Файл сгенерирован&#10;&#10;EN&#10;Added a file generator to perform task #5&#10;File generated" />
+    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Добавлен генератор файла для выполнения задачи №5&#10;Файл сгенерирован&#10;&#10;EN&#10;Added a file generator to perform task #5&#10;File generated" />
   </component>
 </project>
