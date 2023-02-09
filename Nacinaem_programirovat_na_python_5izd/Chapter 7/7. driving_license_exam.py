@@ -24,6 +24,7 @@
 # that were incorrect. .
 # Files with the correct answers and the answers of the subjects are located in the dop directory
 
+MAX_ERROR = 5
 
 def get_data(f_name):
     f_answer = open(f'dop\\{f_name}', 'r')
@@ -44,8 +45,8 @@ def cheking_the_result(answer, a_student):
             else:
                 bad_answer += 1
                 bad_list.append(i+1)
-    if bad_answer <= 5: print(f'Поздравялем! Вы прошли тест')
-    else: print(f'Ошибок болье 5-и. Попробуйте еще раз')
+    if bad_answer <= MAX_ERROR: print(f'Поздравялем! Вы прошли тест')
+    else: print(f'Тест провален! ошибок более 5-и. Запишитесь на пересдачу')
     print(f'Вы верно ответили на {good_answer} вопросов')
     print(f'Вы не верное ответили на {bad_answer} вопросов')
     if bad_answer > 1: print(f'Вы не верно ответили на вопросы: {bad_list}')
