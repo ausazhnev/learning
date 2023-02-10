@@ -22,9 +22,7 @@
 
 
 def check(num, user_num):
-    if num == 2:
-        print(f' {num}', end='')
-    if num == 3 or num == 5:
+    if num == 2 or num == 3 or num == 5:
         print(f' {num}', end='')
     elif num % 2 != 0 and num % 3 != 0 and num % 5 != 0:
         print(f' {num}', end='')
