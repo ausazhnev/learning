@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу № 10&#10;в директорию &quot;doc&quot; добавлен файл &quot;10. worldSeries_winners.txt&quot;&#10;&#10;EN&#10;Completed task # 10&#10;added file &quot;10. worldSeries_winners.txt&quot; to &quot;doc&quot; directory">
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/11. Lo_Shu_magic_square.py" afterDir="false" />
+    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу № 11&#10;&#10;EN&#10;Completed task # 11">
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/12. generation_of_a_prime_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.11. Lo_Shu_magic_square">
+  <component name="RunManager" selected="Python.12. generation_of_a_prime_number">
     <configuration name="10. world_series_champions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. driving_license_exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12. generation_of_a_prime_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/7. driving_license_exam.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/12. generation_of_a_prime_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12. generation_of_a_prime_number" />
         <item itemvalue="Python.11. Lo_Shu_magic_square" />
         <item itemvalue="Python.10. world_series_champions" />
         <item itemvalue="Python.9. population_data" />
         <item itemvalue="Python.8. name_search" />
-        <item itemvalue="Python.7. driving_license_exam" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676014568903</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="RU&#10;Выполнил задачу № 11&#10;&#10;EN&#10;Completed task # 11">
+      <created>1676019962505</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676019962505</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +313,7 @@
     <MESSAGE value="RU&#10;Выполнил задачу №8&#10;в папку dop добавлены файлы:&#10;&quot;8. girl_names.txt&quot; - имена девочек&#10;&quot;8. boy_names.txt&quot; - имена мальчиков&#10;&#10;EN&#10;Completed task #8&#10;files added to dop folder:&#10;&quot;8. girl_names.txt&quot; - girls names&#10;&quot;8. boy_names.txt&quot; - boy names" />
     <MESSAGE value="RU&#10;Выполнил задачу №9&#10;в директорию &quot;doc&quot; добавлен файл &quot;9. USPopulation.txt&quot;&#10;&#10;EN&#10;Completed task #9&#10;the file &quot;9.&quot; has been added to the &quot;doc&quot; directory. USPopulation.txt &quot;" />
     <MESSAGE value="RU&#10;Выполнил задачу № 10&#10;в директорию &quot;doc&quot; добавлен файл &quot;10. worldSeries_winners.txt&quot;&#10;&#10;EN&#10;Completed task # 10&#10;added file &quot;10. worldSeries_winners.txt&quot; to &quot;doc&quot; directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу № 10&#10;в директорию &quot;doc&quot; добавлен файл &quot;10. worldSeries_winners.txt&quot;&#10;&#10;EN&#10;Completed task # 10&#10;added file &quot;10. worldSeries_winners.txt&quot; to &quot;doc&quot; directory" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 11&#10;&#10;EN&#10;Completed task # 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу № 11&#10;&#10;EN&#10;Completed task # 11" />
   </component>
 </project>
