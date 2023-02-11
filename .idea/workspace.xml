@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13">
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/14. pie_chart_of_expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/dop/14. spending_per_month.txt" afterDir="false" />
+    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу № 14&#10;Данные находятся &quot;dop\14. spending_per_month.txt&quot;&#10;&#10;EN&#10;Completed task # 14&#10;The data is &quot;dop\14.spending_per_month.txt&quot;">
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/15. graph_of_weekly_gasoline_prices_for_1994.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/dop/15. 1994_weekly_gas_averages.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,28 +54,7 @@
       <recent name="C:\PyProject\learning\Nacinaem_programirovat_na_python_5izd\Chapter 7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14. pie_chart_of_expenses">
-    <configuration name="10. world_series_champions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/10. world_series_champions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.15. graph_of_weekly_gasoline_prices_for_1994">
     <configuration name="11. Lo_Shu_magic_square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +139,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="15. graph_of_weekly_gasoline_prices_for_1994" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/15. graph_of_weekly_gasoline_prices_for_1994.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="prob" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15. graph_of_weekly_gasoline_prices_for_1994" />
         <item itemvalue="Python.14. pie_chart_of_expenses" />
         <item itemvalue="Python.13. magic_ball" />
         <item itemvalue="Python.12. generation_of_a_prime_number" />
         <item itemvalue="Python.11. Lo_Shu_magic_square" />
-        <item itemvalue="Python.10. world_series_champions" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676032387034</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="RU&#10;Выполнил задачу № 14&#10;Данные находятся &quot;dop\14. spending_per_month.txt&quot;&#10;&#10;EN&#10;Completed task # 14&#10;The data is &quot;dop\14.spending_per_month.txt&quot;">
+      <created>1676108604356</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676108604356</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +343,7 @@
     <MESSAGE value="RU&#10;Выполнил задачу № 11&#10;&#10;EN&#10;Completed task # 11" />
     <MESSAGE value="RU&#10;Доработал задачу № 12&#10;Соединил проверки в строке 25 &#10;&#10;EN&#10;Improved task number № 12&#10;Connected checks in line 25" />
     <MESSAGE value="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 14&#10;Данные находятся &quot;dop\14. spending_per_month.txt&quot;&#10;&#10;EN&#10;Completed task # 14&#10;The data is &quot;dop\14.spending_per_month.txt&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу № 14&#10;Данные находятся &quot;dop\14. spending_per_month.txt&quot;&#10;&#10;EN&#10;Completed task # 14&#10;The data is &quot;dop\14.spending_per_month.txt&quot;" />
   </component>
 </project>
