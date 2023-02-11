@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Доработал задачу № 12&#10;Соединил проверки в строке 25 &#10;&#10;EN&#10;Improved task number № 12&#10;Connected checks in line 25">
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/13. magic_ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/dop/13. ball_responses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/dop/13. ball_responses_ru.txt" afterDir="false" />
+    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13">
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/14. pie_chart_of_expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/dop/14. spending_per_month.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <recent name="C:\PyProject\learning\Nacinaem_programirovat_na_python_5izd\Chapter 7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13. magic_ball">
+  <component name="RunManager" selected="Python.14. pie_chart_of_expenses">
     <configuration name="10. world_series_champions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9. population_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14. pie_chart_of_expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/9. population_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/14. pie_chart_of_expenses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14. pie_chart_of_expenses" />
         <item itemvalue="Python.13. magic_ball" />
         <item itemvalue="Python.12. generation_of_a_prime_number" />
         <item itemvalue="Python.11. Lo_Shu_magic_square" />
         <item itemvalue="Python.10. world_series_champions" />
-        <item itemvalue="Python.9. population_data" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676029025498</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13">
+      <created>1676032387034</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676032387034</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +335,7 @@
     <MESSAGE value="RU&#10;Выполнил задачу № 10&#10;в директорию &quot;doc&quot; добавлен файл &quot;10. worldSeries_winners.txt&quot;&#10;&#10;EN&#10;Completed task # 10&#10;added file &quot;10. worldSeries_winners.txt&quot; to &quot;doc&quot; directory" />
     <MESSAGE value="RU&#10;Выполнил задачу № 11&#10;&#10;EN&#10;Completed task # 11" />
     <MESSAGE value="RU&#10;Доработал задачу № 12&#10;Соединил проверки в строке 25 &#10;&#10;EN&#10;Improved task number № 12&#10;Connected checks in line 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Доработал задачу № 12&#10;Соединил проверки в строке 25 &#10;&#10;EN&#10;Improved task number № 12&#10;Connected checks in line 25" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13" />
   </component>
 </project>

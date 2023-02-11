@@ -1,0 +1,12 @@
+rental of property
+300
+petrol
+120
+food
+320
+cloth
+100
+car loan
+90
+other payments
+136
