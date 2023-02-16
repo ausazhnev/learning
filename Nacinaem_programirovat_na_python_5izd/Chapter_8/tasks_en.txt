@@ -1,0 +1,193 @@
+This file contains all tasks from chapter 8 of the book:
+Getting Started with Python. 5th Edition
+Author: Tony Gaddis
+
+*************************************************************************************************
+
+Task #1
+Initials.
+Write a program that takes a string value containing a person's first, middle, and last names
+and displays initials. For example, if the user enters Mikhail Ivanovich Kuznetsov, then the
+program should output M.I.K.
+
+Solution in file task_8_1.py
+
+*************************************************************************************************
+
+Task #2
+The sum of the digits in the string.
+Write a program that asks the user to enter a series of single digit numbers without separators.
+The program should display the sum of all single digit numbers in a string value. For example,
+if the user enters 2514, then this method should return the value 12, which is the
+sum of 2, 5, 1, and 4
+
+Solution in file task_8_2.py
+
+*************************************************************************************************
+
+Task #3
+Date printer.
+Write a program that reads a string value from the user that contains a date in the format
+dd/mm/yyyy. It should print the date in the format March 12, 2018.
+
+Solution in file task_8_3.py
+
+*************************************************************************************************
+
+Task #4
+Morse code converter.
+Morse code is an encoding where each letter of the alphabet, each number and various punctuation
+marks are represented by a series of dots and dashes. Symbol tables are in the 'dop\' directory
+morze_cade_global.png - International, morze_cade_ru.png - Russian
+Write a program that asks the user to enter a string value and then converts that string value
+to Morse code.
+
+Solution in file task_8_4.py
+
+*************************************************************************************************
+
+Task #5
+Phone number translator.
+Many companies use phone numbers like 555-GET-FOOD to make it easier for customers to remember
+these numbers. On a standard telephone, letters of the alphabet are assigned to numbers
+as follows:
+A, B и С = 2  /  D, E и F = 3  /  G, H и I = 4  /  J, K и L = 5
+M, N и O = 6  /  P, Q, R и S = 7  /  T, U и V = 8  /  W, X, Y и Z = 9
+Write a program that asks the user to enter a 10-character phone number in the format
+XXX-XXX-XXXX. The application should show a phone number in which all alphabetic characters in
+the original are translated into their numeric equivalent. For example, if the user enters
+555-GET-FOOD, then the application should display the number 555-438-3663.
+
+Solution in file task_8_5.py
+
+*************************************************************************************************
+
+Task #6
+Average number of words.
+The 'text.txt' file contains one sentence per line. Write a program that reads the contents of
+a file and calculates the average number of words per sentence.
+The file is in the 'dop' directory
+
+Solution in file task_8_6.py
+
+*************************************************************************************************
+
+Task #7
+Character analysis.
+The 'text.txt' file is located in the 'dop' directory. Write a program that reads the contents
+of a file and determines:
+- the number of letters in the file in upper case
+- the number of letters in the file in lowercase
+- number of digits in the file
+- the number of whitespace characters in the file.
+
+Solution in file task_8_7.py
+
+*************************************************************************************************
+
+Task #8
+Suggestion corrector.
+Write a program with a function that takes a string value as an argument and returns a copy
+of it, with the first character of each sentence written in uppercase. For example, if the
+argument is 'hello! my name is Joe. what's your name?', then this function should return the
+string value 'Hello! My name is Joe. And what is your name?'. The program should allow the user
+to enter a string value and then pass it to the function. The modified string value must be
+passed to the screen.
+
+Solution in file task_8_8.py
+
+*************************************************************************************************
+
+Task #9
+Vowels and consonants.
+Write a program with a function that takes a string value as an argument and returns the number
+of vowels it contains. The application must have one more function that takes a string value as
+an argument and returns the number of consonants it contains. The application should allow the
+user to enter a string value and display the number of vowels and consonants it contains.
+
+Solution in file task_8_9.py
+
+*************************************************************************************************
+
+Task #10
+The most frequent symbol.
+Write a program that allows the user to enter a string value and displays the character that
+appears most often in it.
+
+Solution in file task_8_10.py
+
+*************************************************************************************************
+
+Task #11
+Word separator.
+Write a program that takes as input a sentence in which all words are written without spaces,
+but the first letter of each word is in uppercase. Convert the sentence to a string value where
+the words are separated by spaces and only the first word starts with an uppercase letter.
+For example, the string value 'StopAndSmellTheRoses' would be converted to 'Stop and
+smell the roses'
+
+Solution in file task_8_11.py
+
+*************************************************************************************************
+
+Task #12
+Word separator.
+Write a program that takes as input a sentence in which all words are written without spaces,
+but the first letter of each word is in uppercase. Convert the sentence to a string value where
+the words are separated by spaces and only the first word starts with an uppercase letter.
+For example, the string value 'StopAndSmellTheRoses' would be converted to 'Stop and
+smell the roses'
+
+Solution in file task_8_12.py
+
+*************************************************************************************************
+
+Task #13
+Lottery Powerball.
+In order to play the PowerBall lottery, they buy a ticket that has five numbers from 1 to 69
+and a PowerBall number in the range from 1 to 26. (You can choose these numbers yourself or
+let the ticket machine choose them randomly for you.) Then, on a given day, the machine randomly
+selects a winning row of numbers. If the first five numbers match the first five winning numbers
+in any order and your PowerBall number matches the winning PowerBall number, then you win a
+jackpot which is a very large sum of money. If your numbers match only some of the winning
+numbers, then you win a smaller amount depending on how many winning numbers matched.
+The file 'pbnumbers.txt' contains the PowerBall winning numbers that were selected between
+February 3, 2010 and May 11, 2016 (the file contains 654 sets of winning numbers). Each line
+in the file contains a set of six numbers that were selected on a given date. The numbers are
+space separated and the last number on each line is the PowerBall number for that day. For
+example, the first line in the file shows the numbers for February 3, 2010, which were 17, 22,
+36, 37, 52, and a PowerBall number of 24.
+Write one or more programs that work with this file and display:
+- 10 most common numbers sorted by frequency
+- 10 least common numbers sorted by frequency
+- 10 most 'ripened' numbers (numbers that haven't been used for a long time), ordered from most
+'ripened' to least 'ripened'
+- the frequency of each number from 1 to 69 and the frequency of each PowerBall number - numbers
+from 1 to 26.
+
+Solution in file task_8_13.py
+
+*************************************************************************************************
+
+Task #14
+Gasoline prices.
+The file 'dop\GasPrise.txt' contains weekly average prices per gallon of gasoline in the US
+starting April 5, 1993 and ending August 26, 2013. Each line in the file contains the average
+price per gallon of gasoline on that day, and is formatted as follows: MM-DD-YYYY:Price
+where MM is a two-digit month, DD is a two-digit day, YYYY is a four-digit year, price is the
+average price of a gallon of gasoline on that day.
+As part of the assignment, you must write one or more programs that read the contents of a given
+file and perform the following calculations.
+ - average price per year: Calculates the average price of gasoline for each year, for each year
+in the file. (This file starts in April 1993 and ends in August 2013. Use data provided for the
+period 1993 to 2013.)
+ - Average Monthly Price: Calculates the average price for each month in the file.
+ - Highest and lowest price of the year: during each year in the file determines the date and
+value of the lowest and highest price.
+ - Ascending price list: generates a text file with dates and prices sorted in ascending order.
+ - Price List Descending: generates a text file with dates and prices sorted in descending order.
+To complete this task, you can write one program or several programs, one for each calculation.
+
+Solution in file task_8_14.py
+
+*************************************************************************************************
