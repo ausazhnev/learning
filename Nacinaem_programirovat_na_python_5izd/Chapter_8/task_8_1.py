@@ -1,8 +1,10 @@
 # RU
 # Задание №1 к главе 8
+# Текст задания находится в файле tasks_ru.txt
 #
 # EN
 # Task №1 to chapter 8
+# The text of the task is in the file tasks_en.txt
 
 def converter(user_data):
     initials = ''
