@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу № 14&#10;Данные находятся &quot;dop\14. spending_per_month.txt&quot;&#10;&#10;EN&#10;Completed task # 14&#10;The data is &quot;dop\14.spending_per_month.txt&quot;">
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/15. graph_of_weekly_gasoline_prices_for_1994.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/dop/15. 1994_weekly_gas_averages.txt" afterDir="false" />
+    <list default="true" id="94995764-f57d-41ba-97ec-35ff78321416" name="Changes" comment="RU&#10;Выполнил задачу № 12 глава 8&#10;два вариеонта решения &#10;&#10;EN&#10;Completed task № 12 chapter 8&#10;two solutions">
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/dop/price_dn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/dop/price_up.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/task_8_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/task_8_14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/6. greater_than_the_number_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/6. greater_than_the_number_n.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +47,8 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/PyProject/learning&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -54,112 +56,7 @@
       <recent name="C:\PyProject\learning\Nacinaem_programirovat_na_python_5izd\Chapter 7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15. graph_of_weekly_gasoline_prices_for_1994">
-    <configuration name="11. Lo_Shu_magic_square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/11. Lo_Shu_magic_square.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12. generation_of_a_prime_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/12. generation_of_a_prime_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13. magic_ball" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/13. magic_ball.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="14. pie_chart_of_expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/14. pie_chart_of_expenses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15. graph_of_weekly_gasoline_prices_for_1994" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter 7/15. graph_of_weekly_gasoline_prices_for_1994.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.task_8_13">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="prob" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,13 +78,118 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_8_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/task_8_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_8_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/task_8_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_8_12_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/task_8_12_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_8_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/task_8_13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_8_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nacinaem_programirovat_na_python_5izd/Chapter_8/task_8_14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15. graph_of_weekly_gasoline_prices_for_1994" />
-        <item itemvalue="Python.14. pie_chart_of_expenses" />
-        <item itemvalue="Python.13. magic_ball" />
-        <item itemvalue="Python.12. generation_of_a_prime_number" />
-        <item itemvalue="Python.11. Lo_Shu_magic_square" />
+        <item itemvalue="Python.task_8_13" />
+        <item itemvalue="Python.task_8_12_v2" />
+        <item itemvalue="Python.task_8_14" />
+        <item itemvalue="Python.task_8_11" />
+        <item itemvalue="Python.task_8_12" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +314,119 @@
       <option name="project" value="LOCAL" />
       <updated>1676108604356</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="RU&#10;Выполнил задачу № 15&#10;Данные находятся &quot;dop\15. 1994_weekly_gas_averages.txt&quot;&#10;&#10;EN&#10;Completed task # 15&#10;The data is &quot;dop\15. 1994_weekly_gas_averages.txt&quot;">
+      <created>1676114226516</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676114226516</updated>
+    </task>
+    <task id="LOCAL-00018" summary="RU&#10;Приступаем к выполнению заданий из главы 8&#10; - создан файл &quot;README.txt&quot;, содержащий общее описание содержимого папки.&#10; - создана папка &quot;dop&quot;  содержащая дополнительные файлы к задачам&#10; - созданы все дополниетельные файлы к задачам&#10; - создан файл &quot;tasks_ru.txt&quot;, содержащий все задачи к главе 8 на Русском языке &#10; - создан файл &quot;tasks_en.txt&quot;, содержащий все задачи к главе 8 на Английском языке &#10;&#10;EN&#10;Getting Started with the Tasks in Chapter 8&#10;  - a &quot;README.txt&quot; file has been created containing a general description of the contents of the folder.&#10;  - created &quot;dop&quot; folder containing additional files for tasks&#10;  - all additional files for tasks are created&#10;  - created file &quot;tasks_ru.txt&quot; containing all tasks for chapter 8 in Russian&#10;  - created file &quot;tasks_en.txt&quot; containing all tasks for chapter 8 in English">
+      <created>1676542362491</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676542362491</updated>
+    </task>
+    <task id="LOCAL-00019" summary="RU&#10;Приступаем к выполнению заданий из главы 8&#10; - создан файл &quot;README.txt&quot;, содержащий общее описание содержимого папки.&#10; - создана папка &quot;dop&quot;  содержащая дополнительные файлы к задачам&#10; - созданы все дополниетельные файлы к задачам&#10; - создан файл &quot;tasks_ru.txt&quot;, содержащий все задачи к главе 8 на Русском языке &#10; - создан файл &quot;tasks_en.txt&quot;, содержащий все задачи к главе 8 на Английском языке &#10;&#10;EN&#10;Getting Started with the Tasks in Chapter 8&#10;  - a &quot;README.txt&quot; file has been created containing a general description of the contents of the folder.&#10;  - created &quot;dop&quot; folder containing additional files for tasks&#10;  - all additional files for tasks are created&#10;  - created file &quot;tasks_ru.txt&quot; containing all tasks for chapter 8 in Russian&#10;  - created file &quot;tasks_en.txt&quot; containing all tasks for chapter 8 in English">
+      <created>1676545462869</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676545462869</updated>
+    </task>
+    <task id="LOCAL-00020" summary="RU&#10;Выполнил задачу № 1 глава 8&#10;&#10;EN&#10;Completed task № 1 chapter 8">
+      <created>1676546783714</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676546783714</updated>
+    </task>
+    <task id="LOCAL-00021" summary="RU&#10;Выполнил задачу № 2 глава 8&#10;в файл 'task_8_1.py' добавленна строка со ссылкой на текст задания&#10;EN&#10;Completed task № 2 chapter 8&#10;a line with a link to the text of the task has been added to the 'task_8_1.py' file">
+      <created>1676555212618</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676555212618</updated>
+    </task>
+    <task id="LOCAL-00022" summary="RU&#10;Выполнил задачу № 3 глава 8&#10;&#10;EN&#10;Completed task № 3 chapter 8">
+      <created>1676558499389</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558499389</updated>
+    </task>
+    <task id="LOCAL-00023" summary="RU&#10;Выполнил задачу № 4 глава 8&#10;&#10;EN&#10;Completed task № 4 chapter 8">
+      <created>1676564904470</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676564904470</updated>
+    </task>
+    <task id="LOCAL-00024" summary="RU&#10;Выполнил задачу № 5 глава 8&#10;&#10;EN&#10;Completed task № 5 chapter 8">
+      <created>1676570256418</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676570256418</updated>
+    </task>
+    <task id="LOCAL-00025" summary="RU&#10;Выполнил задачу № 5 глава 8&#10;&#10;EN&#10;Completed task № 6 chapter 8">
+      <created>1676574224958</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676574224958</updated>
+    </task>
+    <task id="LOCAL-00026" summary="RU&#10;Выполнил задачу № 7 глава 8&#10;&#10;EN&#10;Completed task № 7 chapter 8">
+      <created>1676582995007</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676582995007</updated>
+    </task>
+    <task id="LOCAL-00027" summary="RU&#10;Выполнил задачу № 8 глава 8&#10;&#10;EN&#10;Completed task № 8 chapter 8">
+      <created>1676620114322</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676620114322</updated>
+    </task>
+    <task id="LOCAL-00028" summary="RU&#10;Выполнил задачу № 9 глава 8&#10;&#10;EN&#10;Completed task № 9 chapter 8">
+      <created>1676650274498</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676650274498</updated>
+    </task>
+    <task id="LOCAL-00029" summary="RU&#10;Выполнил задачу № 10 глава 8&#10;&#10;EN&#10;Completed task № 10 chapter 8">
+      <created>1676659381705</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1676659381706</updated>
+    </task>
+    <task id="LOCAL-00030" summary="RU&#10;Выполнил задачу № 11 глава 8&#10;&#10;EN&#10;Completed task № 11 chapter 8">
+      <created>1676712537779</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1676712537779</updated>
+    </task>
+    <task id="LOCAL-00031" summary="RU&#10;Выполнил задачу № 12 глава 8&#10;&#10;EN&#10;Completed task № 12 chapter 8">
+      <created>1676726183232</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1676726183232</updated>
+    </task>
+    <task id="LOCAL-00032" summary="RU&#10;Выполнил задачу № 12 глава 8&#10;два вариеонта решения &#10;&#10;EN&#10;Completed task № 12 chapter 8&#10;two solutions">
+      <created>1676741846137</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1676741846137</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,7 +434,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -328,13 +448,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="RU&#10;Выполнил задачу №2&#10;&#10;EN&#10;Completed task №2" />
-    <MESSAGE value="RU&#10;Выполнил задачу №1&#10;&#10;EN&#10;Completed task №1" />
-    <MESSAGE value="RU&#10;Выполнил задачу №3&#10;&#10;EN&#10;Completed task №3" />
-    <MESSAGE value="RU&#10;Выполнил задачу №4&#10;&#10;EN&#10;Completed task №4" />
-    <MESSAGE value="RU&#10;Добавлен генератор файла для выполнения задачи №5&#10;Файл сгенерирован&#10;&#10;EN&#10;Added a file generator to perform task #5&#10;File generated" />
-    <MESSAGE value="RU&#10;в строке 41 заменен isdigit() на isnumeric()&#10;&#10;EN&#10;replaced in line 41 isdigit() на isnumeric()" />
-    <MESSAGE value="RU&#10;Выполнил задачу №6&#10;&#10;EN&#10;Completed task №6" />
     <MESSAGE value="RU&#10;Выполнил задачу №7&#10;в папку dop добавлены файлы:&#10;7. correct_answers.txt - Правильные ответы на вопросы&#10;7. student_passed.txt - ответы для студента который сдал экзамен&#10;7. student_not_pass.txt - ответы студента который не сдал экзамен&#10;&#10;EN&#10;Completed task №7&#10;files have been added to the dop folder:&#10;7. correct_answers.txt - Correct answers to questions&#10;7. student_passed.txt - answers for the student who passed the exam&#10;7. student_not_pass.txt - answers of the student who did not pass the exam" />
     <MESSAGE value="RU&#10;В задаче №7&#10;Добавлена именованя констаната MAX_ERROR &#10;Исправлены орфографические ошибкин&#10;&#10;EN&#10;In task №7&#10;Added naming constant MAX_ERROR&#10;Fixed spelling errors" />
     <MESSAGE value="RU&#10;Выполнил задачу №8&#10;в папку dop добавлены файлы:&#10;&quot;8. girl_names.txt&quot; - имена девочек&#10;&quot;8. boy_names.txt&quot; - имена мальчиков&#10;&#10;EN&#10;Completed task #8&#10;files added to dop folder:&#10;&quot;8. girl_names.txt&quot; - girls names&#10;&quot;8. boy_names.txt&quot; - boy names" />
@@ -344,6 +457,22 @@
     <MESSAGE value="RU&#10;Доработал задачу № 12&#10;Соединил проверки в строке 25 &#10;&#10;EN&#10;Improved task number № 12&#10;Connected checks in line 25" />
     <MESSAGE value="RU&#10;Выполнил задачу № 13&#10;&#10;EN&#10;Completed task # 13" />
     <MESSAGE value="RU&#10;Выполнил задачу № 14&#10;Данные находятся &quot;dop\14. spending_per_month.txt&quot;&#10;&#10;EN&#10;Completed task # 14&#10;The data is &quot;dop\14.spending_per_month.txt&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу № 14&#10;Данные находятся &quot;dop\14. spending_per_month.txt&quot;&#10;&#10;EN&#10;Completed task # 14&#10;The data is &quot;dop\14.spending_per_month.txt&quot;" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 15&#10;Данные находятся &quot;dop\15. 1994_weekly_gas_averages.txt&quot;&#10;&#10;EN&#10;Completed task # 15&#10;The data is &quot;dop\15. 1994_weekly_gas_averages.txt&quot;" />
+    <MESSAGE value="RU&#10;Приступаем к выполнению заданий из главы 8&#10; - создан файл &quot;README.txt&quot;, содержащий общее описание содержимого папки.&#10; - создана папка &quot;dop&quot;  содержащая дополнительные файлы к задачам&#10; - созданы все дополниетельные файлы к задачам&#10; - создан файл &quot;tasks_ru.txt&quot;, содержащий все задачи к главе 8 на Русском языке &#10; - создан файл &quot;tasks_en.txt&quot;, содержащий все задачи к главе 8 на Английском языке &#10;&#10;EN&#10;Getting Started with the Tasks in Chapter 8&#10;  - a &quot;README.txt&quot; file has been created containing a general description of the contents of the folder.&#10;  - created &quot;dop&quot; folder containing additional files for tasks&#10;  - all additional files for tasks are created&#10;  - created file &quot;tasks_ru.txt&quot; containing all tasks for chapter 8 in Russian&#10;  - created file &quot;tasks_en.txt&quot; containing all tasks for chapter 8 in English" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 1 глава 8&#10;&#10;EN&#10;Completed task № 1 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 2 глава 8&#10;в файл 'task_8_1.py' добавленна строка со ссылкой на текст задания&#10;EN&#10;Completed task № 2 chapter 8&#10;a line with a link to the text of the task has been added to the 'task_8_1.py' file" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 3 глава 8&#10;&#10;EN&#10;Completed task № 3 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 4 глава 8&#10;&#10;EN&#10;Completed task № 4 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 5 глава 8&#10;&#10;EN&#10;Completed task № 5 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 6 глава 8&#10;&#10;EN&#10;Completed task № 6 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 7 глава 8&#10;&#10;EN&#10;Completed task № 7 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 8 глава 8&#10;&#10;EN&#10;Completed task № 8 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 9 глава 8&#10;&#10;EN&#10;Completed task № 9 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 10 глава 8&#10;&#10;EN&#10;Completed task № 10 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 11 глава 8&#10;&#10;EN&#10;Completed task № 11 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 12 глава 8&#10;&#10;EN&#10;Completed task № 12 chapter 8" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 12 глава 8&#10;два вариеонта решения &#10;&#10;EN&#10;Completed task № 12 chapter 8&#10;two solutions" />
+    <MESSAGE value="RU&#10;Выполнил задачу № 12 глава 8&#10;два варианта решения&#10;&#10;EN&#10;Completed task № 12 chapter 8&#10;two solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="RU&#10;Выполнил задачу № 12 глава 8&#10;два вариеонта решения &#10;&#10;EN&#10;Completed task № 12 chapter 8&#10;two solutions" />
   </component>
 </project>
