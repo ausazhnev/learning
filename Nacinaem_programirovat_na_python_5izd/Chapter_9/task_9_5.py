@@ -68,7 +68,6 @@ def main():
     cout_dict = {}
     data = get_data_from_file()
     del_makrs(data, cout_dict)
-    print(cout_dict)
     change = user_change()
     if change == 1:
         show_result(cout_dict)
