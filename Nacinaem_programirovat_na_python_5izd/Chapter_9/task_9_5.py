@@ -45,7 +45,7 @@ def user_change():
                      f'[#] > [3] - Вывести на экран и сохранить в файл\n'
                      f'[#] > > '
                      )
-    if u_change.isdigit() and (int(u_change) > 0 or int(u_change) <= 3):
+    if u_change.isdigit() and (int(u_change) >= 1 and int(u_change) <= 3):
         return int(u_change)
     else:
         user_change()
@@ -68,7 +68,6 @@ def main():
     cout_dict = {}
     data = get_data_from_file()
     del_makrs(data, cout_dict)
-    print(cout_dict)
     change = user_change()
     if change == 1:
         show_result(cout_dict)
