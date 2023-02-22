@@ -35,7 +35,7 @@ def deal_caeds(desk, number):
 
     # мой варант
     hand_cards = random.choices(list(desk), k=number)  # используя choices мы получаем сразу
-    for card in hand_cards:  # набор карт в котором нет повторов
+    for card in hand_cards:                            # набор карт в котором нет повторов
         print(f'[#] > {card}')
         hand_value += desk[card]
 

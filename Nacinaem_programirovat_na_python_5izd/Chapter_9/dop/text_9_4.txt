@@ -1,0 +1,2 @@
+The text in which we will look for matches. Therefore, we specifically add matches to this text.
+By the fact that we need to add matches to the text in order to check the operation of the script in this text.
