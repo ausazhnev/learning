@@ -45,10 +45,11 @@ def user_change():
                      f'[#] > [3] - Вывести на экран и сохранить в файл\n'
                      f'[#] > > '
                      )
-    if u_change.isdigit() and (int(u_change) >= 1 and int(u_change) <= 3):
+    if u_change.isdigit() and (1 <= int(u_change) <= 3):
         return int(u_change)
     else:
         user_change()
+        return int(u_change)
 
 
 # Выводит на экран содержимое словаря cout_dict
