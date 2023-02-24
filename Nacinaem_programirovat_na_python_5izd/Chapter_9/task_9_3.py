@@ -74,6 +74,7 @@ def menu():
         return int(user_change)
     else:
         menu()
+        return user_change
 
 
 def main():
