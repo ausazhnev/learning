@@ -1,5 +1,4 @@
-### :ru: Директория "Chapter_9" содержится программный код заданий к главе 9 книги
-### "Начинаем программировать на Python 5-е издание" автор Тони Гэддис.
+### :ru: Директория "Chapter_9" содержится программный код заданий к главе 9 книги "Начинаем программировать на Python 5-е издание" автор Тони Гэддис.
 
 Мне приятно, что вы заглянули в мой репозиторий. Надеюсь в нем вы найдете для себя что интересное и полезное, а так же буду признателен за обратную связь.
 
@@ -19,8 +18,7 @@
 
 ___
 
-### :us: The "Chapter_9" directory contains the programming code for the tasks for Chapter 9 of
-### Starting out Python 5th Edition by Tony Gaddis.
+### :us: The "Chapter_9" directory contains the programming code for the tasks for Chapter 9 of Starting out Python 5th Edition by Tony Gaddis.
 
 I'm glad you checked out my repository. I hope you will find something interesting and useful in it, and I will also be grateful for the feedback.
 
@@ -36,4 +34,4 @@ I'm glad you checked out my repository. I hope you will find something interesti
 
 :scroll: Telegram: [WarFish](https://t.me/ausazhnev)
 
-:grey_exclamation: ПTranslation into English made with the help of Google translator.
+:grey_exclamation: Translation into English made with the help of Google translator.
