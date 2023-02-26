@@ -18,7 +18,7 @@
 
 ___
 
-### :us: The "Chapter_9" directory contains the programming code for the tasks for Chapter 9 of Starting out Python 5th Edition by Tony Gaddis.
+### :us: The "Chapter_9" directory contains the programming code for the tasks for Chapter 9 of Starting out with Python 5th Edition by Tony Gaddis.
 
 I'm glad you checked out my repository. I hope you will find something interesting and useful in it, and I will also be grateful for the feedback.
 
