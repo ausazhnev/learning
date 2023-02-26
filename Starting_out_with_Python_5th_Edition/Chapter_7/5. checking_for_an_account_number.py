@@ -13,7 +13,7 @@
 #
 # Task (EN)
 # Checking the availability of the expense account number.
-# Among the source code of Chapter 7 you will find the file charge_accounts.txt . It contains a list of acceptable
+# Among the source code of Chapter_7 you will find the file charge_accounts.txt . It contains a list of acceptable
 # numbers of the company's expense accounts. Each account number is a seven-digit number, specifically 5658845.
 # Write a program that reads the contents of a file into a list. Then it should ask the user to enter the expense
 # account number. The program must determine that the number is valid by searching for it in the list.
