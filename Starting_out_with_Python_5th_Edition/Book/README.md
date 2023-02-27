@@ -1,10 +1,10 @@
-<center><h3> :ru: Книга "Начинаем программировать на Python 5-е издание" </h3></center>
-<table align="center" width="500">
+<h3 align="center"> :ru: Книга "Начинаем программировать на Python 5-е издание" </h3>
+<table align="center">
 <tr>
     <td width="300" align="right">
     <img src = "oblozka.png" width = "300" align = "right" />
     </td>
-    <td align="left" valign="top" width="200">
+    <td align="left" valign="top">
         <ul>
         <li>Автор: Тони Гэддис.</li>
         <li>Издатель: БХВ-Петербург.</li>
@@ -32,13 +32,13 @@
 
 ___
 
-<center><h3> :us: Book "Starting out with Python 5th Edition" </h3></center>
-<table align="center" width="500">
+<h3 align="center"> :us: Book "Starting out with Python 5th Edition" </h3>
+<table align="center">
 <tr>
     <td width="300" align="right">
     <img src = "oblozka.png" width = "300" align = "right" />
     </td>
-    <td align="left" valign="top" width="200">
+    <td align="left" valign="top">
         <ul>
         <li>Author: Tony Gaddis.</li>
         <li>Publisher: BHV-Petersburg.</li>
