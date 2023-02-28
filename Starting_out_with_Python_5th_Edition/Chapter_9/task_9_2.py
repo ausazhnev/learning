@@ -1,14 +1,13 @@
-# Задание №1 к главе 9
+# Задание #1 к главе 9
 # Текст задания находится в файле tasks_ru.txt
-# Вопросы могут вовторяться
 #
-# Task №1 to chapter 9
+# Task #1 to chapter 9
 # The text of the task is in the file tasks_en.txt
-# Questions can be repeated
 
 import random
 
-QUESTION = {'Alabama': 'montgomery', 'Alaska': 'juneau', 'Arizona': 'phoenix',
+# Словарь содержащий пары ключ : значение для вопросов викторины
+question = {'Alabama': 'montgomery', 'Alaska': 'juneau', 'Arizona': 'phoenix',
             'Arkansas': 'little rock', 'California': 'sacramento', 'Colorado': 'denver',
             'Connecticut': 'hartford', 'Delaware': 'dover', 'Florida': 'tallahassee',
             'Georgia': 'atlanta', 'Hawaii': 'honolulu', 'Idaho': 'boise',
@@ -32,17 +31,25 @@ def main():
     good_answer = 0
     bad_answer = 0
     again = 'д'
+    # Скрипт работает в цикле, пока пользователь выбирает д/Д на вопрос о продолжении викторины
     while again == 'д':
-        qest = random.choice(list(QUESTION))
+        # Если словарь пуст, прекращаем викторину и переходим к результатам
+        if len(question) == 0:
+            print(f'[#] > Вопросы закончились.')
+            break
+        qest = random.choice(list(question))
         answer = input(f'[#] > Назовите столицу штата - {qest}\n'
                        f'[#] > > ').lower()
-        if answer == QUESTION[qest]:
+        if answer == question[qest]:
             good_answer += 1
         else:
             bad_answer += 1
+        # Удаляем пару ключ значение из словаря, что бы вопросы не повторялись
+        question.pop(qest)
         again = input(f'[#] > Хотите ответить на еще один вопрос ? (д/н)\n'
                       f'[#] > > '
                       ).lower()
+    # Поле окончания викторины, выводим результаты пользователя на экран
     print(f'[#] > Ваш результат:\t\n'
           f'[#] > Правильных ответов:\t{good_answer}\n'
           f'[#] > Не правильных ответов:\t{bad_answer}'
