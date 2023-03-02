@@ -1,0 +1,217 @@
+This file contains the text of the tasks of the section 'Programming Exercises'
+to Chapter 2: "Input, Processing, and Output" of the book: Starting out with Python 5th Edition
+Author: Tony Gaddis
+
+Translation into English is made by Google translator, the original text is in Russian
+located in the file 'tasks_ru.txt'
+
+*************************************************************************************************
+
+Task #1
+Personal Information.
+Write a program that displays the following information:
+  - your name;
+  - your address of residence, with city, state and postal code;
+  - your phone number;
+  - your specialization in an educational institution.
+
+Solution in 'task_2_1.py' file
+
+*************************************************************************************************
+
+Task #2
+Sales forecast.
+The company has calculated that its annual profit, as a rule, is 23% of the total sales. Write a
+program that asks the user to enter a planned total amount sales and then shows the profit that
+will be received from this amount.
+Hint: to represent 23% use 0.23
+
+Solution in 'task_2_2.py' file
+
+*************************************************************************************************
+
+Task #3
+Calculation of the land area.
+One acre of land is equivalent to 4046.86 square meters. Write a program that asks user enter
+the total square meters of land and calculate the number of acres in this area.
+Hint: Divide the amount entered by 4047 to get the number of acres.
+
+Solution in 'task_2_3.py' file
+
+*************************************************************************************************
+
+Task #4
+Total sales.
+A customer buys five items in a store. Write a program that asks for a price each product and
+then displays the accumulated value of the purchased goods, the amount of sales tax and the
+final amount. Let's say the sales tax is 7%.
+
+Solution in 'task_2_4.py' file
+
+*************************************************************************************************
+
+Task #5
+Traveled distance.
+Assuming that there are no accidents or delays, then the distance traveled car on the freeway,
+can be calculated based on the formula:
+  - distance = speed * time.
+The car is moving at a speed of 70 km/h. Write a program that shows:
+  - the distance that the car will cover in 6 hours;
+  - the distance that the car will cover in 10 hours;
+  - is the distance traveled by the car in 15 hours.
+
+Solution in 'task_2_5.py' file
+
+*************************************************************************************************
+
+Task #6
+Sales tax.
+Write a program that asks the user to enter a purchase amount. Then the program should calculate
+federal and state sales taxes. Assume that the federal sales tax is 5%, and regional 2.5%. The
+program should show the purchase amount, federal tax with sales, regional sales tax, total sales
+tax, and total sales amount (i.e., the amount purchases and total sales tax).
+Hint: to represent 2.5% use 0.025, to represent 5% use 0.05
+
+Solution in 'task_2_6.py' file
+
+*************************************************************************************************
+
+Task #7
+Gasoline consumption is not based on kilometers traveled.
+Gasoline consumption per kilometers traveled by a car can be calculated based on the formula:
+  - consumption = kilometers traveled / gasoline consumption in liters.
+Write a program that prompts the user for the number of kilometers traveled and the consumption
+gasoline in liters. It should calculate the fuel consumption of the car and show the result.
+
+Solution in 'task_2_7.py' file
+
+*************************************************************************************************
+
+Task #8
+Tip, tax and total amount.
+Write a program that calculates the total cost of ordered dishes in a restaurant. Program must
+ask the user to enter the cost of food, calculate the size of the 18 percent tip and 7 percent
+sales tax and show all costs and total.
+
+Solution in 'task_2_8.py' file
+
+*************************************************************************************************
+
+Task #9
+Convert Celsius temperature to Fahrenheit temperature.
+Write a program that converts temperature readings in Celsius to temperature in Fahrenheit scale
+based on the formula:
+  F = ((9/5)C) + 32
+The program should ask the user to enter the Celsius temperature and show temperature converted
+by the Fahrenheit formula.
+
+Solution in 'task_2_9.py' file
+
+*************************************************************************************************
+
+Task #10
+Ingredient regulator.
+The recipe for buns includes the ingredients:
+  - 1.5 cups of sugar;
+  - 1 glass of oil;
+  - 2.75 cups of flour.
+With this many ingredients, this recipe makes 48 buns. Write a program that asks the user how
+many buns he wants to make, and then shows the number of cups of each ingredient required for
+a given number of buns.
+
+Solution in 'task_2_10.py' file
+
+*************************************************************************************************
+
+Task #11
+Percentage of students of both sexes.
+Write a program that asks the user for the number of male and female students
+sex registered in the study group. The program should show the percentage of male students and
+female.
+Hint: suppose that there are 8 boys and 12 girls in the study group, i.e. only 20 students.
+The percentage of boys can be calculated as 8/20 = 0.4 or 40%. Percentage of girls: 12/20 = 0.6,
+or 60%.
+
+Solution in 'task_2_11.py' file
+
+*************************************************************************************************
+
+Task #12
+The program for calculating the purchase and sale of shares.
+Joe bought some shares in an IT company last month. Here is the detail of this purchase:
+  - the number of acquired shares was 2000;
+  - When buying shares, Joe paid $40.00 per share;
+  - Joe paid his stockbroker a commission which amounted to 3% of the amount paid for shares.
+Two weeks later, Joe sold the shares. Here are the details of the sale:
+  - number of sold shares 2000;
+  - he sold the shares for $42.75 per share;
+  - Joe paid his stockbroker a commission which amounted to 3% of the amount received for shares.
+Write a program that displays the following information:
+  - the amount of money paid for the shares;
+  - the amount of commissions paid to the broker when buying shares;
+  - the amount for which Joe sold the shares;
+  - the amount of commission paid to the broker when selling shares;
+is the amount of money Joe had left when he sold the shares and paid his broker (both times).
+If this amount is positive, then Joe has made a profit. If it is negative, then Joe took a loss.
+
+Solution in 'task_2_12.py' file
+
+*************************************************************************************************
+
+Task #13
+Growing grapes.
+A vineyard owner is planting several new vine beds and needs to know how much vines should be
+planted on each bed. Having measured the length of the future ridge, he decided that in order to
+calculate the number of vines that will fit on the ridge along with the final supports to be
+placed at the end of each bed, he may apply the below formula:
+  V = (R - 2E) / S
+where V - is the number of vines that will fit in the ridge; R - is the length of the ridge in
+meters; E - is the size of the space in meters occupied by the end supports; S - distance between
+vines in meters.
+Write a program that performs calculations for the owner of a vineyard. This program should ask
+the user to enter:
+  - the length of the ridge in meters;
+  - space occupied by vines in meters;
+  - distance between vines in meters.
+After the input data has been entered, the program should calculate and display the number vines
+that will fit on the ridge.
+
+Solution in 'task_2_13.py' file
+
+*************************************************************************************************
+
+Task #14
+Compound interest.
+When a bank accrues interest income at a compound rate on an account balance, it accrues interest
+income not only on the principal amount that was deposited to the deposit account, but also on
+the interest income, krirpy accumulates over time. Let's say you want to contribute a little
+money into a savings account and earn income at a compound rate within a certain number of years.
+Below is the formula to calculate the account balance after a specific amount years:
+  A = P(1+(r/n))^nt
+where A - is the amount of money in the account after a specific number of years; P - is the
+principal amount, which was deposited into the account at the beginning; r - annual interest
+rate; n - frequency of interest accrual income per year; t - is a specific number of years.
+Write a program that does the calculations for you. The program should ask the user enter:
+  - the principal amount deposited in the savings account at the very beginning;
+  - the annual interest rate accrued on the balance of the account;
+  - the frequency of accrual of interest income per year (for example, if interest is accrued
+  monthly, then enter 12; if interest income is accrued quarterly, then enter 4);
+  - the number of years during which the savings account will earn interest income.
+After the input data is entered, the program should calculate and display the amount of money,
+which will be in the account after a given number of years.
+Note: The user must enter the interest rate as a percentage. For example, 2% will be entered as
+2, not as 0.2. The program must itself divide the entered number by 100 in order to move the
+decimal point to the correct position.
+
+Solution in 'task_2_14.py' file
+
+*************************************************************************************************
+
+Task #15
+Turtle graphics drawings.
+Use the turtle graphics library to write programs that reproduce all thumbnails, shown in the
+picture 'dop\sketch_2_15.png'
+
+Solution in 'task_2_15.py' file
+
+*************************************************************************************************
