@@ -1,0 +1,188 @@
+This file contains the text of the tasks of the section 'Programming Exercises'
+to Chapter 10: "Classes and object-oriented programming" of the book: Starting out with Python
+5th Edition
+Author: Tony Gaddis
+
+Translation into English is made by Google translator, the original text is in Russian
+located in the file 'tasks_ru.txt'
+
+*************************************************************************************************
+
+Task #1: The Pet class.
+
+Write a Pet class that should have the following data attributes:
+  - __name (for pet's name);
+  - __animal_type (for the type of pet, for example it can be 'dog', 'cat' and '
+  bird')
+  - __age (for pet's age)
+The Pet class must have an __init__() method that creates these attributes. He must also have
+the methods below:
+  - the set_name() method assigns a value to the __name field;
+  - the set_animal_type() method assigns a value to the __animal_type field;
+  - the set_age() method assigns a value to the __age field;
+  - the get_name() method returns the value of the __name field;
+  - the get_animal_type() method returns the value of the __animal_type field;
+  - the get_age() method returns the value of the __age field;
+After writing this class, write a program that creates an object of the class and offers
+the user to enter the key, type and age of their pet. This data should
+stored as attributes of the object. Apply getter methods to extract the name, type, and
+pet's age and show live data on the screen.
+
+Solution in 'task_10_1.py' file
+
+*************************************************************************************************
+
+Task #2: Car class.
+
+Write a class called Car that has the following attributes
+data:
+  - __year_model (for the model of the specified year of manufacture);
+  - __make (for car manufacturer)
+  - __speed (for current vehicle speed)
+The Car class must have an __init__() method that takes a model as arguments
+the specified year of manufacture and the manufacturer. These values must be assigned to the attributes
+__year_model and __make object. It must also assign 0 to the __speed data attribute.
+This class must also have methods:
+  - the accelerate() method (accelerate) each time it is called, 5 must be added to the data attribute
+  __speed.
+  - method break() (slow down) each time it is called, 5 must be added to the data attribute
+  __speed.
+  - method get_speed() (get speed) must return the current speed.
+Next, write a program that creates a Car object and calls the method five times
+accelerate(). After each call to the accelerate() method, it should get the current speed
+car and display it on the screen. It must then call the break() method five times. After
+each call to the break() method, it should get the current speed of the car and output it to
+screen.
+
+Solution in 'task_10_2.py' file
+
+*************************************************************************************************
+
+Task #3: Personal data class Information.
+
+Develop a class that contains the following personal data: name, address, age, and
+phone number. Write appropriate getter methods and mutator methods. Besides,
+Write a program that creates three instances of a class. One copy must contain
+information about you, and the other two - information about your friends or family members.
+
+Solution in 'task_10_3.py' file
+
+*************************************************************************************************
+
+Task #4: The Employee class.
+
+Write a class called Employee, which contains data about the employee in attributes: name,
+identification number, department and position. After writing this class, write a program
+which creates three Employee objects with data given in table 'dop/tab_10_4.png'.
+The program must store this data in three objects and then output data for each
+employee on the screen.
+
+Solution in 'task_10_4.py' file
+
+*************************************************************************************************
+
+Task #5: The RetailItem class.
+
+Write a class called RetailItem that contains information about
+product in a retail store. This class should store data in attributes: Product description,
+number of units in stock and price. After writing this class, write a program that
+creates three RetailItem objects and stores the data in the table in them. 'dop/tab_10_5.png'
+
+Solution in 'task_10_5.py' file
+
+*************************************************************************************************
+
+Task #6: Medical expenses.
+
+Write a class called Patient that has the attributes for the following
+data:
+  - name, patronymic and surname;
+  - address, city, region and postal code;
+  - phone number;
+  - name and telephone number of the emergency contact.
+The __init__() method of the Patient class must take arguments for each attribute. Patient class
+must also have getter methods and mutator methods for each attribute.
+Next, write a Procedure class that represents a medical procedure that a patient underwent.
+The Procedure class must have attributes for the following data:
+  - the name of the procedure;
+  - date of the procedure;
+  - the name of the doctor who performed the procedure;
+  - the cost of the procedure;
+The __init__() method of the Procedure class must take an argument for each argument. Class
+The Procedure must also have getter methods and mutator methods for each attribute. Further
+write a program that creates an instance of the Patient class initialized
+demo data. Then create three instances of the Procedure class initialized
+given in the table 'dop/tab_10_6.png' data.
+The program should display information about the patient, information about all three procedures and about
+the total cost of all procedures.
+
+Solution in 'task_10_6.py' file
+
+*************************************************************************************************
+
+Task #7: Personnel management system.
+
+This exercise involves creating the class from Programming Exercise 4. Create
+a program that stores Employee objects in a dictionary. Use ID number
+employee as a key. The program should display a menu that allows the user to:
+  - find an employee in the dictionary;
+  - add an employee to the dictionary;
+  - change the name, department and position of an existing employee in the dictionary;
+  - delete an employee;
+  - exit the program.
+Upon completion, the program should preserve the dictionary and save it to a file. At
+every time the program starts, it should try to load the pickled dictionary from the file.
+If the file does not exist, then the program should start with an empty dictionary.
+
+Solution in 'task_10_7.py' file
+
+*************************************************************************************************
+
+Task #8: The CashRegister class.
+
+This exercise involves creating the RetailItem class from Programming Exercise 5.
+Create a CashRegister (Cash Register) class that can be used in conjunction with the class
+RetailItem, The RetailItem class must have an internal list of RetailItem objects, as well as
+the methods below.
+  - The purchase_item() method takes a RetailItem object as an argument. At
+  each call to the purchase_item() method, the RetailItem passed as an argument must
+  be added to the list.
+  - Method get_total() (get purchase amount) returns the total cost of all RetailItem objects
+  stored in the internal list of CashRegister objects.
+  The clear() method must clear the internal list of the CashRegister object.
+Demonstrate the CashRegister class in a program that allows the user to select
+several items to buy. When the user is ready to pay for the purchase, the program should
+display a list of all the items he has chosen to buy, as well as their total cost.
+
+Solution in 'task_10_8.py' file
+
+*************************************************************************************************
+
+Problem #9: Quiz.
+
+In this programming problem, you will create a simple quiz game for two players. Program
+will work as follows.
+  - Starting with player 1, each player takes turns answering 5 quiz questions. (should be in
+  a total of 10 questions.) When a question is displayed, 4 possible answers are also displayed.
+  Only one of these answers is correct, and if the player chooses the correct answer, then he
+  earns a point.
+  - After all answers to all questions have been selected, the program should show the number
+  points earned by each player and announces the player with the most points
+  winner.
+To create this program, write a class Question (Question), which will contain data about
+quiz question. The Question class must have attributes for the following data:
+  - Quiz question;
+  - possible answer 1;
+  - possible answer 2;
+  - possible answer 3;
+  - possible answer 4;
+  - the number of the correct answer (1, 2, 3 or 4).
+The Question class must also have an appropriate __init__() method, getter methods, and methods-
+mutators.
+The program must contain a list or dictionary with 10 Question objects, one for each question
+quiz. Compose your own quiz questions for objects on a topic or topics of your choice.
+choice.
+
+Solution in 'task_10_9.py' file
+
+*************************************************************************************************
