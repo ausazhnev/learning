@@ -142,7 +142,7 @@ Task #8: The CashRegister class.
 
 This exercise involves creating the RetailItem class from Programming Exercise 5.
 Create a CashRegister (Cash Register) class that can be used in conjunction with the class
-RetailItem, The RetailItem class must have an internal list of RetailItem objects, as well as
+RetailItem. The CashRegister class must have an internal list of RetailItem objects, as well as
 the methods below.
   - The purchase_item() method takes a RetailItem object as an argument. At
   each call to the purchase_item() method, the RetailItem passed as an argument must
