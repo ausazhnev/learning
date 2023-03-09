@@ -1,0 +1,52 @@
+This file contains the text of the tasks of the section 'Programming Exercises'
+to Chapter 11: "Inheritance" of the book: Starting out with Python 5th Edition
+Author: Tony Gaddis
+
+Translation into English is made by Google translator, the original text is in Russian
+located in the file 'tasks_ru.txt'
+
+*************************************************************************************************
+
+Task #1: The Employee and ProductionWorker classes.
+
+Write an Employee class that contains the following data attributes:
+  - the name of the employee;
+  - employee number.
+Then write a ProductionWorker class, which is a subclass of the Employee class. The
+ProductionWorker class must contain the following data attributes:
+  - shift number (an integer, for example, 1 or 2);
+  - hourly wage rate.
+The working day is divided into two shifts: day and evening. The shift attribute will contain an
+integer value representing the shift the employee is working on. Day shift is shift 1, the
+evening shift is shift 2. Write appropriate getter methods and mutator methods for each class.
+Then write a program that creates an object of the ProductionWorker class and asks the user to
+enter data for each data attribute of this object. Store the data in an object and use getter
+methods on that object to get that data and display it on the screen.
+
+Solution in 'task_11_1.py' file
+
+*************************************************************************************************
+
+Task #2: The ShiftSupervisor class.
+
+In a factory, the shift supervisor is a full-time employee who manages the shift. IN in addition
+to the fixed salary, the shift supervisor receives an annual bonus for the performance of his
+change in production plan. Write a ShiftSupervisor (Shift Supervisor) class that is a subclass of
+the Employee class created in Programming Problem 1. The class ShiftSupervisor must contain a
+data attribute for annual salary and a data attribute for annual production bonus earned by the
+shift supervisor. Demonstrate the class by writing program that uses the ShiftSupervisor object.
+
+Solution in 'task_11_2.py' file
+
+*************************************************************************************************
+
+Task #3: The Person and Customer classes.
+
+Write a Person class with data attributes for a person's name, address, and phone number. Then
+write a Customer class that is a subclass of the Person class. Customer class must have a data
+attribute for the customer number and a boolean data attribute indicating whether customer be on
+the mailing list or not. Demonstrate an instance of the Customer class in a simple program.
+
+Solution in 'task_11_3.py' file
+
+*************************************************************************************************
