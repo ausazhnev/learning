@@ -181,7 +181,7 @@ The Question class must also have an appropriate __init__() method, getter metho
 mutators.
 The program must contain a list or dictionary with 10 Question objects, one for each question
 quiz. Compose your own quiz questions for objects on a topic or topics of your choice.
-choice.
+
 
 Solution in 'task_10_9.py' file
 
