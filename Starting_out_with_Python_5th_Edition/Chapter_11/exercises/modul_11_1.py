@@ -38,3 +38,26 @@ class ProductionWorker(Employee):
     def get_hourly_rate(self):
         return self.__hourly_rate
 
+<<<<<<< HEAD
+=======
+
+# класс ShiftSupervisor (Начальник смены) является подклассом
+# класса Employee расширяя его возможности
+class ShiftSupervisor(Employee):
+    def __init__(self, name=None, id_num=None, annual_salary=None, anuual_bonus=None):
+        super().__init__(name, id_num)
+        self.__annual_salary = annual_salary
+        self.__annual_bonus = anuual_bonus
+
+    def set_annual_salary(self, annual_salary):
+        self.__annual_salary = annual_salary
+
+    def set_annual_bonus(self, annual_bonus):
+        self.__annual_bonus = annual_bonus
+
+    def get_annual_salary(self):
+        return self.__annual_salary
+
+    def get_annual_bonus(self):
+        return self.__annual_bonus
+>>>>>>> 067b7a0 (Обновил: добавил класс ShiftSupervisor)
