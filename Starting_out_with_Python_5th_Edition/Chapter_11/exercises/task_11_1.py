@@ -1,12 +1,12 @@
-# Задание #1 к главе 101
+# Задание #1 к главе 11
 # Текст задания находится в файле tasks_ru.txt
 # Описание класса Employee и класса ProductionWorker находится
-# в файле 'm_pet_10_1.py'
+# в файле 'modul_11_1.py'
 #
 # Task # 1 to chapter 11
 # The text of the task is in the file tasks_en.txt
 # The description of the Employee class and the ProductionWorker
-# class is in file 'm_pet_10_1.py'
+# class is in file 'modul_11_1.py'
 
 import modul_11_1 as employee
 
