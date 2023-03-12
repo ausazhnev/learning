@@ -26,6 +26,8 @@ def main():
         choice = True
     else:
         choice = False
+    # Альтернативный способ записи
+    # choice = True if choice.lower() == 'д' else False
     new_user.set_mailing(choice)
     print(f'Благодарим за предоставленную информацию.\n'
           f'сообщения будут приходить на номер: {new_user.get_phone()}'
