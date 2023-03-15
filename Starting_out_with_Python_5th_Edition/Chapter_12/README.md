@@ -19,7 +19,7 @@
 
 ___
 
-### :en: The directory "Chapter_12" contains the code for the tasks for Chapter 12: Recursion. Books "Starting Python Programming 5th Edition" by Tony Gaddis.
+### :us: The directory "Chapter_12" contains the code for the tasks for Chapter 12: Recursion. Books "Starting Python Programming 5th Edition" by Tony Gaddis.
 
 I'm glad you checked out my repository. I hope you will find something interesting and useful in it, and I will also be grateful for the feedback.
 
