@@ -1,0 +1,92 @@
+This file contains the text of the tasks of the section 'Programming Exercises'
+to Chapter 12: "Recursion" of the book: Starting out with Python 5th Edition
+Author: Tony Gaddis
+
+Translation into English is made by Google translator, the original text is in Russian
+located in the file 'tasks_ru.txt'
+
+*************************************************************************************************
+
+Task #1: Recursive printing.
+
+Develop a recursive function that takes an integer argument 'n' and prints out numbers from 1
+to 'n'
+
+Solution in 'task_12_1.py' file
+
+*************************************************************************************************
+
+Task #2: Recursive multiplication.
+
+Develop a recursive function that takes two arguments in the x and y parameters. This
+the function should return the values of the product of x and y. In this case, the multiplication
+must be performed, as a repeated addition, as follows:
+Example: 7 * 4 = 4 + 4 + 4 + 4 + 4 + 4 + 4.
+To simplify the function, assume that x and y will always contain positive non-zero whole
+numbers.
+
+Solution in 'task_11_2.py' file
+
+*************************************************************************************************
+
+Task #3: Recursive lines.
+
+Write a function that takes an integer argument 'n'. This function should output to
+a screen of 'n' lines consisting of asterisks, with the first line showing 1 asterisk,
+the second line is 2 asterisks and so on until the 'n' line, which should show 'n' asterisks.
+
+Solution in 'task_11_3.py' file
+
+*************************************************************************************************
+
+Task #4: The maximum value in the list.
+
+Develop a function that takes a list as an argument and returns the largest number in the list.
+In this function, to find the maximum value should be used recursion.
+
+Solution in 'task_11_4.py' file
+
+*************************************************************************************************
+
+Task #5: Recursive list sum.
+
+Develop a function that takes a list as an argument. It must recursively calculate the sum of
+all numbers in the list and return that value.
+
+Solution in 'task_11_5.py' file
+
+*************************************************************************************************
+
+Task #6: Sum of numbers.
+
+Develop a function that takes an integer argument and returns the sum of all numbers from 1 up to
+the number passed as an argument. For example, if 50 is passed as an argument, then this function
+will return the sum of the number 1, 2, 3, 4, ... 50. Use recursion to calculate the sum.
+
+Solution in 'task_11_6.py' file
+
+*************************************************************************************************
+
+Task #7: Recursive exponentiation method.
+
+Develop a function that uses recursion to raise a number to a power. This the function must take
+two arguments: the number to be raised to the power and the exponent. Assume that the exponent
+is a non-negative integer.
+
+Solution in 'task_11_7.py' file
+
+*************************************************************************************************
+
+Task #8: Ackermann function.
+
+The Ackermann function is a recursive mathematical algorithm that is used to checking how
+successfully the system optimizes its performance in the case of recursion. Develop a function
+ackerman(m, n) that solves the Ackermann function. Apply in your function the following logic:
+If m = 0 then return n + 1.
+If n = 0 then return ackermann(m-1, 1)
+Otherwise, return ackermann (m-1, ackermann(m, n-1))
+After you develop your function, test it with small values 'm' and 'n'
+
+Solution in 'task_11_8.py' file
+
+*************************************************************************************************
