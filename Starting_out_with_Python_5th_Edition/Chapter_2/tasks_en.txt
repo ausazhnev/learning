@@ -182,11 +182,11 @@ Solution in 'task_2_13.py' file
 
 Task #14
 Compound interest.
-When a bank accrues interest income at a compound rate on an account balance, it accrues interest
-income not only on the principal amount that was deposited to the deposit account, but also on
-the interest income, krirpy accumulates over time. Let's say you want to contribute a little
-money into a savings account and earn income at a compound rate within a certain number of years.
-Below is the formula to calculate the account balance after a specific amount years:
+When a bank calculates interest income, it calculates interest income income not only on the
+amount that was deposited to the deposit account, but also on interest income that accumulates
+over a long period of time. A little savings account income and goal income in the long run
+number of years. Below is the formula for determining the amount of residue after quantitation.
+years:
   A = P(1+(r/n))^nt
 where A - is the amount of money in the account after a specific number of years; P - is the
 principal amount, which was deposited into the account at the beginning; r - annual interest
