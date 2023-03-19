@@ -28,7 +28,7 @@
 ###### Связаться со мной:
 :e-mail: E-mail: [ausazhnev@gmail.com](mailto:ausazhnev@gmail.com)
 
-:scroll: Telegram: [WarFish](https://t.me/ausazhnev)
+:scroll: Telegram: [itPanda](https://t.me/itPanda_ru)
 
 :grey_exclamation: Перевод на Английский язык выполнен с помощью гугл переводчика.
 
@@ -64,6 +64,6 @@ Annotation:
 ###### Contact with me:
 :e-mail: E-mail: [ausazhnev@gmail.com](mailto:ausazhnev@gmail.com)
 
-:scroll: Telegram: [WarFish](https://t.me/ausazhnev)
+:scroll: Telegram: [itPanda](https://t.me/itPanda_ru)
 
 :grey_exclamation: Translation into English made with the help of Google translator.
