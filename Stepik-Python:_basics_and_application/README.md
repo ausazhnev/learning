@@ -1,6 +1,8 @@
 <h3 align="center"> :ru:  Python: основы и применение </h3>
 Период обучения с 20 марта 2023г по настоящее время.
+
 Описание курса:
+
     В этом курсе по программированию на языке Python вы познакомитесь с базовыми понятиями программирования.
 Едва ли возможно научиться программировать без практики, поэтому в качестве домашних заданий вам будет предложено довольно много задач, в которых вы сможете потренировать своё умение программировать.
 Ваши решения будут проверяться автоматической системой, поэтому вы будете получать быструю обратную связь. В силу большого количества участников курса, преподаватели не смогут давать индивидуальных советов по каждой программе, но если у вас будут возникать проблемы, то их всегда можно обсудить с однокурсниками в комментариях к задачам.
@@ -27,7 +29,9 @@ ___
 
 <h3 align="center"> :us: Python: basics and usage </h3>
 The training period is from March 20, 2023 to the present.
+
 Course Description:
+
     In this Python programming course, you will learn the basic concepts of programming.
 It is hardly possible to learn how to program without practice, so as homework you will be given quite a few tasks in which you can practice your programming skills.
 Your decisions will be checked by an automatic system, so you will receive quick feedback. Due to the large number of participants in the course, teachers will not be able to give individual advice on each program, but if you have problems, you can always discuss them with classmates in the comments to the tasks.
