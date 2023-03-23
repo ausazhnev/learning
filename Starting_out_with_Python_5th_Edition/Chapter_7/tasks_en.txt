@@ -1,0 +1,210 @@
+This file contains the text of the tasks of the section 'Programming Exercises'
+to Chapter 7: 'Lists and Tuples' of the book: Starting out with Python 5th Edition
+Author: Tony Gaddis
+
+Translation into English is made by Google translator, the original text is in Russian
+located in the file 'tasks_ru.txt'
+
+*************************************************************************************************
+
+Task #1: Total sales.
+
+Develop a program that asks the user to enter the store's sales for each day. The amounts must be
+stored in a list. Apply a loop to calculate the total weekly sales and show the result.
+
+Solution in 'task_7_1.py' file
+
+*************************************************************************************************
+
+Task #2: Lottery number generator.
+
+Develop a program that generates a seven-digit combination of lottery numbers. The program must
+generate seven random numbers, each in the range 0 to 9, and assign each number to an element of
+the list. Then write another loop that shows the contents of the list.
+
+Solution in 'task_7_2.py' file
+
+*************************************************************************************************
+
+Task #3: Rainfall statistics.
+
+Develop a program that allows the user to list the total rainfall for each of the 12 months. The
+program should calculate and display the total rainfall for the year, the average monthly
+rainfall, and the months with the highest and lowest rainfall.
+
+Solution in 'task_7_3.py' file
+
+*************************************************************************************************
+
+Task #4: Number analysis program.
+
+Develop a program that asks the user to enter a series of 20 numbers. The program should store
+the numbers in a list and then display the following data:
+  - the smallest number in the list
+  - the largest number in the list
+  - the sum of the numbers in the list
+  - arithmetic mean of the number in the list
+
+Solution in 'task_7_4.py' file
+
+*************************************************************************************************
+
+Task #5: Check available expense account numbers.
+
+Among the source code for chapter 7 is the file 'charge_accounts.txt'. It contains a list of
+valid company expense account numbers. Each account number is a seven-digit number, specifically
+5658845.
+Write a program that reads the contents of a file in a list. It should then ask the user to enter
+the expense account number. The program must determine that the number is valid by looking it up
+in the list. If there is a number in the list, then the program should display a message
+indicating that the number is valid. If there is no number in the list, then the program should
+display a message stating that the number is invalid.
+
+Solution in 'task_7_5.py' file
+
+*************************************************************************************************
+
+Task #6: More than n.
+
+In a program, write a function that takes two arguments: a list and a number n. Let's say the
+list contains numbers. The function should show all numbers in the list that are greater than n
+
+Solution in 'task_7_6.py' file
+
+*************************************************************************************************
+
+Task #7: Driving license exam.
+
+Your local driving license department has asked you to create an application that evaluates the
+written portion of a driver's license test. The exam consists of 20 multiple choice questions.
+Here are the correct answers:
+1.A 6.B 11.A 16.C
+2.C 7.C 12.D 17.B
+3.A 8.A 13.C 18.B
+4.A 9.C 14.A 19.D
+5.D 10.D 15.D 20.A
+Your program must store these correct answers in a list. The program must read the testee's
+answers to each of the 20 questions from a text file and save these answers to another list.
+(Create your own text file to test the application, or use the student_solution.txt file found
+in the Chapter 7 source files.) After the test subject's answers are read from the file, the
+program should display a message indicating whether the test subject passed or failed the exam.
+(To pass the exam, the examinee must correctly answer 15 out of 20 questions) The program should
+then display the total number of questions that were correct, the total number of questions that
+were incorrect, and a list with the number of questions that were incorrect .
+
+Solution in 'task_7_7.py' file
+
+*************************************************************************************************
+
+Task #8: Name search.
+
+Among the source code for Chapter 7, you will find the following files:
+  - GirlNames.txt - a file with a list of popular names given to girls by their parents.
+  - BoyNames.txt - a file with a list of popular names given to boys by their parents.
+Write a program that reads the contents of these two files into two separate lists. The user
+should be able to enter a boy's name, or a girl's name, or both, and the application should
+display a message stating that the entered names are among the most popular names.
+
+Solution in 'task_7_8.py' file
+
+*************************************************************************************************
+
+Task #9: Population data.
+
+Among the source code for Chapter 7, you will find the file USPopulation.txt. It stores data on
+the average annual population of the United States in thousands from 1950 to 1990. The first line
+in the file contains the population in 1950, the second line the population in 1951, and so on.
+Write a program that reads the contents of a file into a list. The program should show the
+following data:
+  - the average annual change in the population during the specified period of time
+  - the year with the largest increase in population during the specified time period
+  - the year with the smallest population increase during the specified time period
+
+Solution in 'task_7_9.py' file
+
+*************************************************************************************************
+
+Task #10: World Series Champions.
+
+Among the source code for Chapter 7, you will find the file WorldSeriesWinner.txt. It contains a
+chronological list of World Series of Baseball winning teams from 1903 to 2009. (The first line
+in the file is the name of the team that won in 1903, and the last line is the name of the team
+that won in 2009. Note that the World Series was not played in 1904 and 1994.)
+Write a program that allows the user to enter a team name and then prints out the number of years
+the team won the World Series during the specified time period from 1903 to 2009.
+
+Solution in 'task_7_10.py' file
+
+*************************************************************************************************
+
+Task #11: Magic square Lo Shu.
+
+Lo Shu's magic square is a table with 3 rows and 3 columns (the picture can be found in the
+dop/task_7_11.png folder). The Lo Shu magic square has the following properties:
+  - the table contains numbers strictly from 1 to 9
+  - the sum of each row, each column and each diagonal is the same number (the picture can be
+  found in the folder dop/task_7_11.png)
+The magic square can be simulated in the program using a two-dimensional list. Write a function
+that takes a 2D list as an argument and determines if the list is a Lo Shu magic square. Test the
+function in the program.
+
+Solution in 'task_7_11.py' file
+
+*************************************************************************************************
+
+Task #12: Generating a prime number.
+
+A natural (positive integer) number is prime if it has no divisors other than 1 and itself. A
+natural (positive integer) number is composite if it is not prime. Write a program that asks the
+user to enter an integer greater than 1 and then prints out all prime numbers that are less than
+or equal to the entered number. The program should work like this:
+ - After the user has entered a number, the program should fill the list with all integers
+ starting from 2 and up to the entered value
+ - The program should then apply a loop to iterate through the list. Each element must be passed
+ to a function that determines and reports whether the element is a prime number or a composite
+ number.
+
+Solution in 'task_7_12.py' file
+
+*************************************************************************************************
+
+Task #13: Magic ball.
+
+Write a program that simulates a magic ball, that is, a toy that predicts and gives a random
+answer to a general yes or no question. Among the source code for chapter 7 you will find the
+file 8_ball_responses.txt. This file contains 12 responses, in particular: 'I don't think', '
+Yes, of course!', 'Not sure', etc. The program should read the answers from the file in the list,
+prompt the user to ask a question, and then show one of the answers selected at random from the
+list. The program should continue running until the user is ready to exit it.
+
+Solution in 'task_7_13.py' file
+
+*************************************************************************************************
+
+Task #14: Round chart of expenses.
+
+Create a text file that contains your expenses for the past month for the following items:
+ - rent
+ - gasoline
+ - Food
+ - cloth
+ - car payments
+ - others
+Write a Python program that reads data from a file and uses the matplotlib package to plot a pie
+chart showing how you spend your money.
+
+Solution in 'task_7_14.py' file
+
+*************************************************************************************************
+
+Task #15: Graph of weekly gasoline prices for 1994.
+
+Among the source code for chapter 7 you will find the file 1994_Weekly_Gas_Averages.txt. It
+contains the average price of gasoline for each week in 1994. (file has 52 lines) Using the
+matplotlib package, write a Python program that reads the contents of a file and then plots
+either a line plot or a bar chart. Don't forget to show content labels along the 'x' and 'y'
+axes, as well as tick marks.
+
+Solution in 'task_7_15.py' file
+
+*************************************************************************************************
