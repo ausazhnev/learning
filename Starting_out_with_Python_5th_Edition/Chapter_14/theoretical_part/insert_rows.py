@@ -3,7 +3,7 @@ import sqlite3
 
 def main():
     # Присоединиться к базе данных
-    conn = sqlite3.connect('../db/Inventory.db')
+    conn = sqlite3.connect('../db/inventory.db')
     # Получить курсор
     cur = conn.cursor()
     # Добавить строку в таблицу Inventory

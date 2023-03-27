@@ -5,7 +5,7 @@ def main():
     # Переменная управления циклом
     again = 'д'
     # Присоединение к базе данных
-    conn = sqlite3.connect('../db/Inventory.db')
+    conn = sqlite3.connect('../db/inventory.db')
     # Получаем курсор
     cur = conn.cursor()
     while again.lower() == 'д':
