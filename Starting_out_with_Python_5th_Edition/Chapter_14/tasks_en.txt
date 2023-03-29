@@ -1,0 +1,73 @@
+This file contains the text of the tasks of the section 'Programming Exercises'
+to Chapter 14: "Database programming" of the book: Starting out with Python 5th Edition
+Author: Tony Gaddis
+
+Translation into English is made by Google translator, the original text is in Russian
+located in the file 'tasks_ru.txt'
+
+*************************************************************************************************
+
+Task #1: Population database.
+
+Write a program that connects to the cities.db database and allows the user to choose any of the
+following operations
+  - Display a list of cities sorted by population in ascending order.
+  - Display a list of cities sorted by population in descending order.
+  - Displaying a list of cities sorted by name.
+  - Display the total population of all cities.
+  - Display the city with the largest population.
+  - Display the city with the smallest population.
+
+Solution in 'task_14_1.py' file
+
+*************************************************************************************************
+
+Task #2: Telephone database.
+
+Write a program that will create a database called phonebook.db. The database must have an
+Entries table with columns for a person's name and phone number. Next, write an application CRUD,
+which allows the user to add rows to the Entries table, look up the number person's phone number,
+change his phone number and delete specified lines.
+
+Solution in 'task_14_2.py' file
+
+*************************************************************************************************
+
+Task #3: Relational database project.
+
+In this task, you will create a database named student_info.db containing the following
+information about college students:
+ - the student's first and last name.
+ - the specialty of the student.
+ - the department in which the student is enrolled.
+The database should contain tables Majors (Speciality), Departments (Faculties), Students
+(Students). (screenshot with structure '../dop/task_14_3_db.png')
+ - Write a program that will create a database and tables.
+ - Write a program that performs CRUD operations on the Majors table. In particular, еhe program
+ should allow the user to do the following:
+ -- Add a new specialty.
+ -- Find an existing specialty.
+ -- Update an existing specialty.
+ -- Delete an existing skill.
+ -- Display a list of all specialties.
+ - Write a program that performs CRUD operations on the Departments table. In particular, the
+ program should allow the user to do the following:
+ -- Add a new faculty.
+ -- Find an existing faculty.
+ -- Update the existing faculty.
+ -- Delete an existing faculty.
+ -- Display a list of all faculties.
+ - Write a program that performs CRUD operations on the Students table. In particular, the
+ program should allow the user to do the following:
+ -- Add a new student.
+ -- Find an existing student.
+ -- Update an existing student.
+ -- Delete an existing student.
+ -- Display a list of all students.
+When adding, updating, and deleting rows, support for foreign keys must be enabled. At adding a
+new student to the Students table, the user should only be allowed to select an existing major
+from the Majors table and an existing faculty from the Departments table.
+
+Solution in 'task_14_3.py' file
+
+*************************************************************************************************
