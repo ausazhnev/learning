@@ -1,5 +1,6 @@
 import sqlite3
 
+
 def main():
     conn = None
     try:
@@ -27,7 +28,6 @@ def main():
     finally:
         if conn is not None:
             conn.close()
-
 
 
 if __name__ == '__main__':
