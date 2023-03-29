@@ -5,7 +5,7 @@
 ##### Структура папки:
 * '[theoretical_part](https://github.com/itPanda-ru/learning/tree/main/Starting_out_with_Python_5th_Edition/Chapter_12/theoretical_part)' - директория содержит файлы с кодом программ описанных в теоретической части главы.
 * '[exercises](https://github.com/itPanda-ru/learning/tree/main/Starting_out_with_Python_5th_Edition/Chapter_12/exercises)' - директория содержит файлы с кодом программ из раздела 'Упражнения по программированию'
-* '[algorithmic_simulator.py](https://github.com/WarFish/learning/blob/main/Starting_out_with_Python_5th_Edition/Chapter_11/algorithmic_simulator.py)' - файл содержит задания требующие написания кода из раздела 'Алгоритмический тренажер'
+* '[algorithmic_simulator.py](https://github.com/WarFish/learning/blob/main/Starting_out_with_Python_5th_Edition/Chapter_12/algorithmic_simulator.py)' - файл содержит задания требующие написания кода из раздела 'Алгоритмический тренажер'
 * '[tasks_ru.txt](https://github.com/itPanda-ru/learning/tree/main/Starting_out_with_Python_5th_Edition/Chapter_12/tasks_ru.txt)' - файл содержит описание всех заданий на Русском языке.
 * '[tasks_en.txt](https://github.com/itPanda-ru/learning/tree/main/Starting_out_with_Python_5th_Edition/Chapter_12/tasks_en.txt)' - файл содержит описание всех задание на Английском языке.
 
