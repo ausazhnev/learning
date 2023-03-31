@@ -10,7 +10,7 @@
 
 Курс подготовлен на базе программы [Института биоинформатики](https://bioinf.me).
 
-Курс на платформе [Stepik](https://stepik.org/course/67/promo)
+Курс на платформе [Stepik](https://stepik.org/course/512/syllabus)
 
 Структура папок:
 1. [Базовые принципы языка Python](https://github.com/itPanda-ru/learning/tree/main/Stepik-Python:_basics_and_application/1.Basic_principles_of_the_Python_language)
@@ -39,7 +39,7 @@ Also in the course there are several tasks of increased complexity, which are op
 
 The course was prepared on the basis of the [Bioinformatics Institute](https://bioinf.me) program.
 
-Course on the [Stepik platform](https://stepik.org/course/67/promo)
+Course on the [Stepik platform](https://stepik.org/course/512/syllabus)
 
 Folder structure:
 1. [Basic principles of the Python language](https://github.com/itPanda-ru/learning/tree/main/Stepik-Python:_basics_and_application/1.Basic_principles_of_the_Python_language)
